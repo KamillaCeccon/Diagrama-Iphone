@@ -4,10 +4,10 @@ Modelagem e Diagramação de um Componente iPhone Modelar e diagramar a represen
 
 **_Negrito_** Funcionalidades a Modelar
 
-**_Negrito e Itálico_** 1.Reprodutor Musical Métodos: tocar(), pausar(), selecionarMusica(String musica) 
+**_ 1.Reprodutor Musical Métodos: tocar(), pausar(), selecionarMusica(String musica)_** 
 
-**_Negrito e Itálico_** 2.Aparelho Telefônico Métodos: ligar(String numero), atender(), iniciarCorreioVoz() 
+**_ 2.Aparelho Telefônico Métodos: ligar(String numero), atender(), iniciarCorreioVoz() _**
 
-**_Negrito e Itálico_** 3.Navegador na Internet Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina() 
-
-**_Negrito_** Objetivo Criar um diagrama UML que represente as funcionalidades descritas acima.
+**_3.Navegador na Internet Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina() 
+_** 
+**_Objetivo Criar um diagrama UML que represente as funcionalidades descritas acima._** 
