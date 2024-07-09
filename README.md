@@ -8,6 +8,6 @@ Modelagem e Diagramação de um Componente iPhone Modelar e diagramar a represen
 
 **2.Aparelho Telefônico Métodos: ligar(String numero), atender(), iniciarCorreioVoz()**
 
-**3.Navegador na Internet Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina() 
-_** 
+**3.Navegador na Internet Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()** 
+
 **Objetivo Criar um diagrama UML que represente as funcionalidades descritas acima.** 
